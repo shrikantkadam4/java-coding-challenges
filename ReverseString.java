@@ -13,7 +13,7 @@ public class ReverseString {
         return new String(charArray);
     }
     public static void main(String[] args) {
-        String str = "abcdefghi";
+        String str = "abcdefgh";
         String reversed = reverseString(str);
         System.out.println("original- " + str);
         System.out.println("reversed- " + reversed);
