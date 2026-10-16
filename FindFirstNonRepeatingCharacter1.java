@@ -1,7 +1,7 @@
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class FindFirstNonRepeatingCharacter {
+public class FindFirstNonRepeatingCharacter1 {
     public static void main(String[] args){
         String string="swiss";
         Map<Character,Integer> map=new LinkedHashMap<>();
